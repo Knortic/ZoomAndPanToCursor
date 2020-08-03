@@ -1,0 +1,15 @@
+D:\Programming\My Programs\C#\ZoomAndPanToCursor\bin\Debug\ZoomAndPanToCursor.exe.config
+D:\Programming\My Programs\C#\ZoomAndPanToCursor\bin\Debug\ZoomAndPanToCursor.exe
+D:\Programming\My Programs\C#\ZoomAndPanToCursor\bin\Debug\ZoomAndPanToCursor.pdb
+D:\Programming\My Programs\C#\ZoomAndPanToCursor\obj\Debug\ZoomAndPanToCursor.csprojAssemblyReference.cache
+D:\Programming\My Programs\C#\ZoomAndPanToCursor\obj\Debug\MainWindow.g.cs
+D:\Programming\My Programs\C#\ZoomAndPanToCursor\obj\Debug\App.g.cs
+D:\Programming\My Programs\C#\ZoomAndPanToCursor\obj\Debug\ZoomAndPanToCursor_MarkupCompile.cache
+D:\Programming\My Programs\C#\ZoomAndPanToCursor\obj\Debug\ZoomAndPanToCursor_MarkupCompile.lref
+D:\Programming\My Programs\C#\ZoomAndPanToCursor\obj\Debug\MainWindow.baml
+D:\Programming\My Programs\C#\ZoomAndPanToCursor\obj\Debug\ZoomAndPanToCursor.g.resources
+D:\Programming\My Programs\C#\ZoomAndPanToCursor\obj\Debug\ZoomAndPanToCursor.Properties.Resources.resources
+D:\Programming\My Programs\C#\ZoomAndPanToCursor\obj\Debug\ZoomAndPanToCursor.csproj.GenerateResource.cache
+D:\Programming\My Programs\C#\ZoomAndPanToCursor\obj\Debug\ZoomAndPanToCursor.csproj.CoreCompileInputs.cache
+D:\Programming\My Programs\C#\ZoomAndPanToCursor\obj\Debug\ZoomAndPanToCursor.exe
+D:\Programming\My Programs\C#\ZoomAndPanToCursor\obj\Debug\ZoomAndPanToCursor.pdb

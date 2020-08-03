@@ -1,0 +1,15 @@
+D:\Programming\My Programs\C#\ZoomToCursor\bin\Debug\ZoomToCursor.exe.config
+D:\Programming\My Programs\C#\ZoomToCursor\bin\Debug\ZoomToCursor.exe
+D:\Programming\My Programs\C#\ZoomToCursor\bin\Debug\ZoomToCursor.pdb
+D:\Programming\My Programs\C#\ZoomToCursor\obj\Debug\ZoomToCursor.csprojAssemblyReference.cache
+D:\Programming\My Programs\C#\ZoomToCursor\obj\Debug\MainWindow.g.cs
+D:\Programming\My Programs\C#\ZoomToCursor\obj\Debug\App.g.cs
+D:\Programming\My Programs\C#\ZoomToCursor\obj\Debug\ZoomToCursor_MarkupCompile.cache
+D:\Programming\My Programs\C#\ZoomToCursor\obj\Debug\ZoomToCursor_MarkupCompile.lref
+D:\Programming\My Programs\C#\ZoomToCursor\obj\Debug\MainWindow.baml
+D:\Programming\My Programs\C#\ZoomToCursor\obj\Debug\ZoomToCursor.g.resources
+D:\Programming\My Programs\C#\ZoomToCursor\obj\Debug\ZoomToCursor.Properties.Resources.resources
+D:\Programming\My Programs\C#\ZoomToCursor\obj\Debug\ZoomToCursor.csproj.GenerateResource.cache
+D:\Programming\My Programs\C#\ZoomToCursor\obj\Debug\ZoomToCursor.csproj.CoreCompileInputs.cache
+D:\Programming\My Programs\C#\ZoomToCursor\obj\Debug\ZoomToCursor.exe
+D:\Programming\My Programs\C#\ZoomToCursor\obj\Debug\ZoomToCursor.pdb
